@@ -6,7 +6,7 @@ VERSION
     1.0
     
 AUTHOR
-	Basura Humana :) (yo)
+	Hely Salgado
     
 DESCRIPTION
 	Make the reverse complement of DNA sequence
