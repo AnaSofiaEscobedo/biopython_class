@@ -22,6 +22,7 @@ USAGE
     
     % python reverse-complement -i sequence.txt
 
+la verdad los encabezados me dan acidez unu
 '''
 
 import argparse
